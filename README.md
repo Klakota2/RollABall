@@ -1,0 +1,2 @@
+# RollABall
+This is a simple game created in Unity that allows the user to control a ball which starts on a center of a plane and is tasked with collecting each of the 13 yellow, rotating, collectibles that are also on the plane as fast as possible! Every time you collect a yellow collectible, you will hear a "Ding" sound along with an update to the text "Count" in the upper left corner. The stopwatch begins when the game is launched, and ends when all of the collectibles have been collected.   Controls: Moving the ball: Arrow Keys Restart the game: R key
